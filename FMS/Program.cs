@@ -4,9 +4,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
+var a = 10;
 
 // Configure the HTTP request pipeline.
 //njsabjsaabjsab
+//jhjkhhh
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Errorvhjgkjhgh");
